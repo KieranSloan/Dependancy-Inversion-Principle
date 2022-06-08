@@ -1,0 +1,11 @@
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Dev\DependancyInversionPrinciple\ConsoleUI\obj\Debug\ConsoleUI.pdb
